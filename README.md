@@ -33,6 +33,7 @@ Procurement teams often manage large volumes of invoice & supplier data, which m
 - Prioritise Indirect Goods & Services for cost-saving reviews, as this would likely have the largest financial impact.
 - Analyse the drivers behind the 2011-2012 growth period to identify whether spending increases were due to operational expansion, procurement strategy, etc. 
 
+### Dashboard Preview
 
 <img width="1629" height="916" alt="image" src="https://github.com/user-attachments/assets/064c8180-872c-4d11-9261-430431d4fc2a" />
 
