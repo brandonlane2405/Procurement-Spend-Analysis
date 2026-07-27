@@ -4,31 +4,31 @@ This project analyses procurement spending data using Power BI to identify spend
 
 ### Business Problem
 Procurement teams often manage large volumes of invoice & supplier data, which makes it difficult to identify cost drivers & spending trends. The analysis' objective was to:
-- Monitor procurement expenditure
-- Identify high-spend suppliers
-- Compare spending trends between months across years
-- Identify potential cost optimisation opportunities
+- Monitor procurement expenditure.
+- Identify high-spend suppliers.
+- Compare spending trends between months across years.
+- Identify potential cost optimisation opportunities.
 
 ### Skills Used
-- Data Modelling (Adjusted relationship cardinality to ensure correct filter propagation)
-- KPI Reporting
+- Data Modelling (adjusted relationship cardinality to ensure correct filter propagation).
+- KPI Reporting.
 - Used Power Query to convert invoice amount to currency data type and remove blank invoice records.
-- DAX Measures (invoice count, total invoice amount, etc)
+- DAX Measures (invoice count, total invoice amount, etc).
 
 ### Dashboard Features
-- KPI summary at top
-- Invoice aggregations across time
-- Vendor spending breakdown for comparison
-- Interactive decomposition tree for RCA 
+- KPI summary at top.
+- Invoice aggregations across time.
+- Vendor spending breakdown for comparison.
+- Interactive decomposition tree for RCA.
 
 ### Key Insights
 - Indirect Goods & Services are the most valued subcategory, encompassing 30% of the total invoice value.
 - The total vendors, total invoice value and invoice count increased the greatest between 2011 and 2012, suggesting a period of rapid purchasing activity. 
-- Between 2012 & 2013, hardware increased in invoice value by $16.99 million, demonstrating hardware as a key cost driver 
+- Between 2012 & 2013, hardware increased in invoice value by $16.99 million, demonstrating hardware as a key cost driver.
 - Between 2012 & 2013, despite an increase in average invoice value by $140, the total number of vendors decreased by 62. This suggests procurement spending became more concentrated among fewer suppliers, indicating a potential shift towards supplier consolidation. 
 
 ### Recommendations
-- Investigate opportunities to optimise hardware spending through supplier negotiations
+- Investigate opportunities to optimise hardware spending through supplier negotiations.
 - Assess supplier concentration risk to ensure the organisation is not overly dependent on a small number of vendors
 - Prioritise Indirect Goods & Services for cost-saving reviews, as this would likely have the largest financial impact.
 - Analyse the drivers behind the 2011-2012 growth period to identify whether spending increases were due to operational expansion, procurement strategy, etc. 
